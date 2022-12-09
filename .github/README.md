@@ -123,3 +123,6 @@ clock-in is a free, easy-to-use clock-in system for start up or small companies 
 2. 使用其CDN
 ```
 
+
+參考自：https://github.com/wuduhren/clock-in
+仍在修改中～～
