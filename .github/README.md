@@ -1,4 +1,4 @@
-# clock-in
+# Leave-management
 
 根據勞基法的規定, 公司都需要有一套紀錄員工上下班時間的打卡系統.
 
